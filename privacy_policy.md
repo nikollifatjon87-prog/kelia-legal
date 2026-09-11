@@ -176,7 +176,22 @@ Photos, videos, voice recordings, documents, and loyalty card images are stored 
 
 ---
 
-## 12. Subscriptions and Payments
+## 12. This Website (kelia.cloud)
+
+This section is different from the rest of this policy: it describes our **marketing website**, kelia.cloud, not the App itself.
+
+**Google Analytics** — with your consent, given through the cookie banner shown on your first visit, kelia.cloud uses Google Analytics to understand how the site is used (pages visited, general location by country/city, device type). This does not start until you actively accept it, and you can decline it entirely.
+
+| Service | What it receives | Privacy policy |
+| --- | --- | --- |
+| Google Analytics | Anonymized browsing behavior on kelia.cloud, only if you consent | policies.google.com/privacy |
+| Vercel | Standard web server logs (hosting) | vercel.com/legal/privacy-policy |
+
+You can withdraw your consent at any time by clearing your browser's site data for kelia.cloud, which resets the banner.
+
+---
+
+## 13. Subscriptions and Payments
 
 Kelia offers an optional Premium subscription. Payments are handled by Apple or Google through your app store account and managed via RevenueCat.
 
@@ -184,13 +199,13 @@ We never see or store your payment card details. We receive only whether your su
 
 ---
 
-## 13. Notifications
+## 14. Notifications
 
 If you enable them, Kelia sends notifications for reminders, morning briefings, birthdays, care reminders, shopping requests from family members, and chat messages. You can disable these at any time in your device settings or within the App.
 
 ---
 
-## 14. Children
+## 15. Children
 
 Kelia is a family app and may hold information about children — name, age, birthday — entered by an adult who manages the family account.
 
@@ -198,7 +213,7 @@ We do not knowingly collect information directly from children under 13 without 
 
 ---
 
-## 15. How Long We Keep Your Data
+## 16. How Long We Keep Your Data
 
 Your data is kept for as long as your account exists. Kelia does not delete it automatically after a set period.
 
@@ -212,7 +227,7 @@ If you have any question about what remains after deletion, write to us at the a
 
 ---
 
-## 16. Your Rights
+## 17. Your Rights
 
 You have the right to:
 
@@ -224,19 +239,19 @@ You have the right to:
 
 ---
 
-## 17. Security
+## 18. Security
 
 We use encrypted transmission and database-level access rules to protect your data against unauthorised access, alteration, or deletion.
 
 ---
 
-## 18. Changes to This Policy
+## 19. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Significant changes will be reflected in the date at the top of this document. Continued use of the App after a change means you accept the updated policy.
 
 ---
 
-## 19. Contact
+## 20. Contact
 
 **Kelia Apps**
 Email: postmaster@kelia.cloud
